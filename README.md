@@ -7,7 +7,7 @@
 
 ## 🔧 Funcionalidades Planejadas
 
-![Python](https://img.shields.io/badge/Python-3.11.2-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10.2-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Arch%20Linux%20%7C%20Ubuntu-blue?style=for-the-badge&logo=linux&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=github&logoColor=white)
@@ -25,6 +25,9 @@
 | [ ]      | Agendamento automático de tarefas no Linux        | 🚧 Em breve |
 | [ ]      | Cancelamento de tarefas agendadas no Windows      | 🚧 Em breve |
 | [ ]      | Cancelamento de tarefas agendadas no Linux        | 🚧 Em breve |
+| [ ]      | Remover pastas vazias                             | 🚧 Em breve |
+| [ ]      | Remover arquivos duplicados                       | 🚧 Em breve |
+| [ ]      | Salvar configurações da aplicação                 | 🚧 Em breve |
 
 ---
 
