@@ -166,7 +166,7 @@ class FolderInformations:
             
 
 test = FolderInformations(
-    "/home/newbiw/Downloads",
+    input(str()),
     remove_empty_folders=True,
     include_subfolders_files=True,
     organize_format='%Y/%B-%d'
