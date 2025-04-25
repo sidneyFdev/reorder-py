@@ -14,9 +14,9 @@
 
 | ✔️ Status | 🛠️ Funcionalidade                                | 🔗 Código |
 |----------|---------------------------------------------------|-----------|
-| -[ ]      | Organização por ano, mês e data                   | 🚧 Em breve |
-| -[ ]      | Organização por extensão de arquivo               | 🚧 Em breve |
-| [ ]      | Seletor de pasta                                  | 🚧 Em breve |
+| - [ ]      | Organização por ano, mês e data                   | 🚧 Em breve |
+| - []      | Organização por extensão de arquivo               | 🚧 Em breve |
+| -[]      | Seletor de pasta                                  | 🚧 Em breve |
 | [ ]      | Interface gráfica                                 | 🚧 Em breve |
 | [ ]      | Múltiplas opções de organização                   | 🚧 Em breve |
 | [ ]      | Seletor de pastas predefinidas do sistema         | 🚧 Em breve |
